@@ -1,2 +1,2 @@
-def nothing_function:
+def nothing_function(*args):
   pass
